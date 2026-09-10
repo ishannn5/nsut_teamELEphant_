@@ -5,10 +5,10 @@ TEAM Elephant 
 ## 1. Project Information
 
 - **Project Title:** Help Mate – AI-Based Cognitive Gaming and Memory Assistance Platform for Elderly Dementia Patients
-- **PS ID:** [YOUR ACTUAL PS ID]
+- **PS ID:** SIH26003
 - **PS Title:** AI-Based Cognitive Gaming and Memory Assistance Platform for Elderly Dementia Patients in North Eastern Region (NER)
 - **Category:** Software
-- **Theme:** [YOUR OFFICIAL SIH THEME]
+- **Theme:** MedTech / BioTech / HealthTech
 
 ## 2. Problem Statement
 
