@@ -128,6 +128,8 @@ Help Mate follows a modular architecture in which the elderly-facing application
                          |
                          v
                Next Activity
+```
+
 ## 7. Installation
 
 Clone the repository and install the required dependencies:
@@ -136,9 +138,12 @@ Clone the repository and install the required dependencies:
 git clone https://github.com/ishannn5/nsut_teamELEphant_.git
 cd nsut_teamELEphant_
 npm install
+```
 
 ## 8. Run
-npm run dev
 
+```bash
+npm run dev
+```
 
 
